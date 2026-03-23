@@ -438,5 +438,4 @@ Result: Clean readable labels across all dimension columns with no data loss.
 This project uses publicly available data from the U.S. Energy Information Administration.  
 Data is free to use under EIA's open data policy: https://www.eia.gov/about/copyrights_reuse.php
 
----
-*Built as part of a data analytics portfolio demonstrating end-to-end data engineering and multi-stakeholder BI design.*
+
